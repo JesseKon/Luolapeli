@@ -1,7 +1,7 @@
 # Luolapeli
 Luolapeli ("Cavegame" in English) is a small puzzle game project originally written in 2016/2017 and later in 2020 refactored to modern C++. Inspired by old dos games such as Paganitzu. Includes a level editor.
 
-[!Luolapeli](/pic.png)
+![Luolapeli](/pic.png)
 
 ## Build With
 - SDL2
